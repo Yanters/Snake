@@ -1,0 +1,20 @@
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Konrad\Desktop\Projekty for fun\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Snake.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\bin\Debug\Snake.exe.config
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\bin\Debug\Snake.exe
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\bin\Debug\Snake.pdb
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Snake.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\obj\Debug\Snake.exe
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\obj\Debug\Snake.pdb
+C:\Users\Konrad\Desktop\Projekty for fun\Snake najlepszy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
